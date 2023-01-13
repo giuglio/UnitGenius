@@ -317,6 +317,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>UnitGenius</title>
+  
+    <!-- 
+
+        ::<<>>:: UnitGenius ::<<>>::
+
+        made by :
+        
+        Brunelli Giulio.
+
+        using HTML5, Bootstrap5, CSS, PHP.
+
+     -->
 
     <!-- Collegamento al file CSS di Bootstrap -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
